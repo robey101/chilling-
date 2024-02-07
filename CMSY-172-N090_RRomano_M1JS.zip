@@ -1,0 +1,2 @@
+"use strict";
+alert(“Greetings from the external file!");
