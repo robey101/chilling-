@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Alert Hello World</title>
+  </head>
+  <body>
+    <script>
+    "use strict";
+    alert("Hello World");
+    </script>
+  </body>
+</html>
